@@ -1,6 +1,6 @@
-## Hello, world! :zap:
+# Hello, world! :zap:
 
-#### I'm Agostina, Frontend Dev Trainee.
+## I'm Agostina, Frontend Dev Trainee.
 
  :computer:  ***Stack:*** 
  -  HTML
