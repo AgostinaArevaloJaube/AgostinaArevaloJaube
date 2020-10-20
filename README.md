@@ -1,22 +1,22 @@
-### Hello, world! :zap:
+## Hello, world! :zap:
 
-I'm Agostina, Frontend Dev Trainee.
+#### I'm Agostina, Frontend Dev Trainee.
 
- :computer: Stack: 
+ :computer:  ***Stack:*** 
  -  HTML
  -  CSS
  - Javascript Vanilla.
  
- :bulb: Technologies I have learned: 
+ :bulb:  ***Technologies I have learned:***
  - Git
  - Github
  - Sass (scss)
  
  
- 🌱 I’m currently learning:
+ 🌱 ***I’m currently learning:***
  - ReactJS
  
- 📫 How to reach me:
+ :sparkles: ***How to reach me:***
  <br>
  <br>
   <img src="https://i.postimg.cc/1tWpxw42/LI-In-Bug.png" width=20> [Agostina Arevalo Jaube](https://www.linkedin.com/in/agostinaarevalojaube/)
