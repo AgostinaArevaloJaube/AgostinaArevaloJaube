@@ -1,20 +1,12 @@
 # Hello, I'm Agostina! :zap:
 
-## Frontend Dev Trainee.
+## Frontend Dev Jr.
 
  :computer:  ***Stack:*** 
  -  HTML
  -  CSS
- - Javascript Vanilla.
- 
- :bulb:  ***Technologies I have learned:***
- - Git
- - Github
- - Sass (scss)
- 
- 
- 🌱 ***I’m currently learning:***
- - ReactJS
+ - Javascript
+  - ReactJS
  
  :sparkles: ***How to reach me:***
  <br>
