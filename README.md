@@ -5,10 +5,12 @@
  :computer:  ***Stack:*** 
  -  HTML
  -  CSS
+ -  Sass
  - Javascript
-  - ReactJS
+ - React Js
+ - Styled-components
  
- :sparkles: ***How to reach me:***
+ :sparkles: ***Contact me:***
  <br>
  <br>
   <img src="https://i.postimg.cc/1tWpxw42/LI-In-Bug.png" width=20> [Agostina Arevalo Jaube](https://www.linkedin.com/in/agostinaarevalojaube/)
