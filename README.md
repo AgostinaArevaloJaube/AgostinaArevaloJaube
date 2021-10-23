@@ -12,6 +12,7 @@
  - Redux
  - Sagas
  - Formik
+ - Jest/Enzyme
  
  :sparkles: ***Contact me:***
  <br>
