@@ -9,6 +9,9 @@
  - Javascript
  - React Js
  - Styled-components
+ - Redux
+ - Sagas
+ - Formik
  
  :sparkles: ***Contact me:***
  <br>
