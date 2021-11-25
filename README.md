@@ -1,6 +1,6 @@
 # Hello, I'm Agostina! :zap:
 
-## Frontend Dev Jr.
+## Frontend Developer
 
  :computer:  ***Stack:*** 
  -  HTML
