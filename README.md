@@ -1,18 +1,21 @@
 # Hello, I'm Agostina! :zap:
 
-## Frontend Developer
+## React Developer | Frontend Developer 💡
+As part of diverse, multidisciplinary, inclusive teams, I enjoy collaborating on challenging projects that require constant learning and contribution. 
+I am driven by concepts such as best practices, continuous improvement, and the synergy of teamwork.
 
  :computer:  ***Stack:*** 
- -  HTML
- -  CSS
- -  Sass
+ - HTML
+ - CSS
+ - Sass
  - Javascript
  - React Js
- - Styled-components
+  - Enzyme
+ - React Testing Library
  - Redux
  - Sagas
  - Formik
- - Jest/Enzyme
+ - Styled-components
  
  :sparkles: ***Contact me:***
  <br>
