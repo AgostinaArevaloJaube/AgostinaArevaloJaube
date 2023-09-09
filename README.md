@@ -5,17 +5,14 @@ As part of diverse, multidisciplinary, inclusive teams, I enjoy collaborating on
 I am driven by concepts such as best practices, continuous improvement, and the synergy of teamwork.
 
  :computer:  ***Stack:*** 
- - HTML
- - CSS
- - Sass
- - Javascript
- - React Js
-  - Enzyme
- - React Testing Library
- - Redux
- - Sagas
- - Formik
+ - ReactJs
+ - NextJS
  - Styled-components
+ - Tailwind
+ - React Testing Library
+ - Enzyme
+ - Redux & Sagas
+ - Mobx
  
  :sparkles: ***Contact me:***
  <br>
